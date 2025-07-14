@@ -1,0 +1,2 @@
+the symbol used for addition is '+'
+it add any two number
