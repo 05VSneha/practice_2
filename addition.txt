@@ -1,2 +1,7 @@
-the symbol used for addition is '+'
-it add any two number
+For ADDITION:
+
+The symbol used for addition is '+'
+-It add any two numbers
+
+Edited By Chaman
+
